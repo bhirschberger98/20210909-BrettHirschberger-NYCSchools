@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/call_button.xml" value="0.3055555555555556" />
+        <entry key="app/src/main/res/drawable/call_button_default.xml" value="0.3055555555555556" />
+        <entry key="app/src/main/res/drawable/call_button_pressed.xml" value="0.3055555555555556" />
+        <entry key="app/src/main/res/drawable/email_button.xml" value="0.3055555555555556" />
+        <entry key="app/src/main/res/drawable/email_button_default.xml" value="0.3055555555555556" />
+        <entry key="app/src/main/res/drawable/email_button_disabled.xml" value="0.3055555555555556" />
+        <entry key="app/src/main/res/drawable/email_button_pressed.xml" value="0.3055555555555556" />
+        <entry key="app/src/main/res/drawable/info_button.xml" value="0.3055555555555556" />
+        <entry key="app/src/main/res/drawable/info_button_default.xml" value="0.3055555555555556" />
+        <entry key="app/src/main/res/drawable/info_button_pressed.xml" value="0.3055555555555556" />
+        <entry key="app/src/main/res/drawable/mao_button_pressed.xml" value="0.3055555555555556" />
+        <entry key="app/src/main/res/drawable/map_button.xml" value="0.3055555555555556" />
+        <entry key="app/src/main/res/drawable/map_button_default.xml" value="0.3055555555555556" />
+        <entry key="app/src/main/res/layout-v23/school_list_cell.xml" value="0.1641337386018237" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.23981481481481481" />
+        <entry key="app/src/main/res/layout/activity_school_detail.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/school_list_cell.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/school_list_cell_no_email.xml" value="0.1641337386018237" />
+        <entry key="app/src/main/res/menu/list_menu.xml" value="0.23981481481481481" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_X" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
